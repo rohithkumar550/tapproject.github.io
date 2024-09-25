@@ -1,0 +1,34 @@
+fieldset{
+    background-color:#03354d;
+}
+.square {
+    height: 350px;
+    width: 800px;
+    background-color:white;
+}
+th{
+    padding: 20px;
+}
+.square1{
+    height: 100;
+    width: 200;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    
+}
+.item{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+#item1
+{
+    border-radius: 30px;
+}
+body{
+    font-size: 18px;
+}
+
